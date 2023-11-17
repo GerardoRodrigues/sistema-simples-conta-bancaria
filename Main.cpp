@@ -1,6 +1,5 @@
 #include <iostream>
 #include "Cabecalho/Cliente.h"
-#include <Windows.h>
 using namespace std;
 
 int main(){
